@@ -1,1 +1,3 @@
 esse é o arquivo hello 3
+
+HELLO ! FILE TEST 
